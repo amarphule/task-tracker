@@ -13,7 +13,7 @@ const AddTask = () => {
                 <label>Reminder</label>
                 <input type='checkbox' />
             </div>
-            <input type='submit' value='Add Task' className='btn btn-block' />
+            <input type='submit' value='Add New Task' className='btn btn-block' />
         </form>
     )
 }
